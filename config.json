@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/flask_thunder" ,
+        "fb_url":"YOUR SOCIAL LINK",
+        "tw_url":"YOUR SOCIAL LINK",
+        "gh_url": "YOUR SOCIAL LINK",
+        "user": "YOUR GMAIL ADDRESS",
+        "pwd": "YOUR EMAIL PASSWORD",
+        "no_of_posts": 3,
+        "blogName": "Flask Thunder",
+        "admin_user": "user",
+        "admin_pwd": "123",
+        "upload_location": "E:\\flask_tut\\static\\img"
+    }
+}
